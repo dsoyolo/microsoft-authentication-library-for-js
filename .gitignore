@@ -279,4 +279,3 @@ lib/msal-node/temp
 ref/
 .server.pid
 workspace.code-workspace
-samples/msal-angular-v2-samples/angular11-sample-app/src/app/app.module.ts
